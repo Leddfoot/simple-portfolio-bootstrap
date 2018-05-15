@@ -23,39 +23,27 @@
   text-align: center;
 
   img {
-    max-width: 300;
+    max-width: 300px;
   }
+}
+
+input {
+  width: 100%;
+  padding-bottom: 20px;
 }
 
 #me-pic {
   display: block;
 margin-left: auto;
 margin-right: auto;
-  max-height:300px;
+  max-height:250px;
 }
 
 #thumbnail-section {
-  /* display: block; */
 margin-left: auto;
 margin-right: auto;
 }
 
-
-/* #main-div {
-
-    padding-left: 0px;
-    padding-right: 0px;
-    background: green;
-
-} */
-
-/* .navbarTop {
-    display: flex;
-    background: #ccc;
-    width: 100vw;
-    justify-content: space-between;
-
-  }
-  .navbarTop div:nth-child(2) {
-    margin-left: auto;
-  } */
+#individual-thumbnail {
+margin-bottom: 15px;
+}
